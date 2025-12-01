@@ -19,19 +19,6 @@ This repository contains a collection of Python modules and scripts designed to 
 - **challenges/**  
   Solve practical exercises such as password validation, guessing games, and simple battle simulations.
 
-
-## How to Use
-
-Each script is self-contained and can be run independently. You can use them as examples, modify them for your own practice, or extend them with new features.
-
-  Explore list, set, dict comprehensions, and generator expressions for concise and expressive data transformations.
-
-- **oop/**  
-  Understand object-oriented programming concepts like classes, attributes, methods, inheritance, and special methods.
-
-- **challenges/**  
-  Solve practical exercises such as password validation, guessing games, and simple battle simulations.
-
 ## How to Use
 
 Each script is self-contained and can be run independently. You can use them as examples, modify them for your own practice, or extend them with new features.
