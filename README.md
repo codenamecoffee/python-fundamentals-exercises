@@ -1,6 +1,6 @@
 # Python Learning Challenges
 
-This repository contains a collection of Python modules and scripts designed to help you learn and practice fundamental programming concepts. Each module focuses on a specific topic, including data structures, control flow, object-oriented programming, and practical coding challenges proposed to me during my **School of Software Engineering -- 2025** training at Endava Uruguay.
+This repository contains a collection of Python modules and scripts designed to help you learn and practice fundamental programming concepts. Each module focuses on a specific topic, including data structures, control flow, object-oriented programming, and practical coding challenges proposed to me during my **School of Software Engineering (2025)** training at Endava Uruguay.
 
 <br>
 
