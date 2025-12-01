@@ -2,6 +2,8 @@
 
 This repository contains a collection of Python modules and scripts designed to help you learn and practice fundamental programming concepts. Each module focuses on a specific topic, including data structures, control flow, object-oriented programming, and practical coding challenges proposed to me during my Software Engineering training at Endava Uruguay 2025.
 
+<br>
+
 ## Contents
 
 - **data_structures/**  
@@ -18,6 +20,8 @@ This repository contains a collection of Python modules and scripts designed to 
 
 - **challenges/**  
   Solve practical exercises such as password validation, guessing games, and simple battle simulations.
+
+<br>
 
 ## How to Use
 
@@ -84,15 +88,20 @@ Each script is self-contained and can be run independently. You can use them as 
 - If it is just a simple script and does not import other files, you can run it directly with `python file.py`.
 - Currently, most scripts in this repository do not use relative imports, but these instructions will help if you add internal dependencies in the future.
 
+<br>
 
 ## Requirements
 
 - Python 3.10 or higher is recommended (for `match-case` syntax).
 - No external dependencies required.
 
+<br>
+
 ## License
 
 This repository is for educational purposes.
+
+<br>
 
 ## Author
 
